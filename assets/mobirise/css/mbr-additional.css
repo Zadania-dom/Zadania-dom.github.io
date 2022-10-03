@@ -1193,20 +1193,3 @@ a {
 .cid-sFGBbGYuTc .icon-text {
   color: #bbbbbb;
 }
-.cid-tiQTqA4oin {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-tiQTqA4oin .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tiQTqA4oin .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
